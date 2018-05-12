@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '33429'
     url: http://www.gutenberg.org/2009/agents/33429
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28587#The-Roman-History-of-Ammianus-Marcellinus--13-During-the-Reigns-of-the-Emperors-Constantius-J_
 gutenberg_issued: '2009-04-22'
 gutenberg_type: Text
 identifiers:
