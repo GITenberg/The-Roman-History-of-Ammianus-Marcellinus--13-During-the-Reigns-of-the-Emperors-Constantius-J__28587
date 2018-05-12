@@ -1,0 +1,35 @@
+_repo: The-Roman-History-of-Ammianus-Marcellinus--13-During-the-Reigns-of-the-Emperors-Constantius-J__28587
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Yonge, Charles Duke
+    alias: Yonge, C. D. (Charles Duke)
+    birthdate: 1812
+    deathdate: 1891
+    gutenberg_agent_id: '3581'
+    url: http://www.gutenberg.org/2009/agents/3581
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Duke_Yonge
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ammianus Marcellinus
+    alias: Marcellinus, Ammianus
+    gutenberg_agent_id: '33429'
+    url: http://www.gutenberg.org/2009/agents/33429
+description: ''
+gutenberg_issued: '2009-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28587'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rome -- History -- Empire, 284-476'
+- !lcc 'DG'
+title: "The Roman History of Ammianus Marcellinus\r\nDuring the Reigns of the Emperors\
+  \ Constantius, Julian, Jovianus, Valentinian, and Valens"
+url: http://www.gutenberg.org/ebooks/28587
